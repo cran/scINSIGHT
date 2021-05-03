@@ -1,0 +1,13 @@
+02b1d7dd30ce8c2ad1443c1dca16a557 *DESCRIPTION
+360aeab0c109f927dc21386462e9f632 *NAMESPACE
+3dba71d3e5b2967b3a48ef2574a9534e *R/RcppExports.R
+6b27ad1bb5d2df838453f15438425795 *R/scinsight.R
+14e69231dd5083fde632fa4eeeef56a0 *R/utils.R
+5544e48f176419d8c4a2346e74662a9a *man/create_scINSIGHT.Rd
+7fffc6bfd4476e32a1de1b91145e48b6 *man/run_scINSIGHT.Rd
+e83cec716c72fe2723f22ef6837aca20 *man/scINSIGHT-class.Rd
+61059660eb073d93e00e8ee054237071 *src/Makevars
+61059660eb073d93e00e8ee054237071 *src/Makevars.win
+9ec8e8a477286cf051d3b00a24ba98ef *src/RcppExports.cpp
+a23b7b5fab10c4c0993276dd79a6e254 *src/iNMF.cpp
+ec5037a543479e1fa4ff4f592476b5dd *src/iNMF_v9_K.cpp
