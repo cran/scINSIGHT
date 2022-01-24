@@ -228,7 +228,8 @@ run_scINSIGHT<- function(
   if(length(K)>1){
     message("Select optimal K...")
   }
-  bestK = K[which.max(object@parameters[["stability"]])]
+  # bestK = K[which.max(object@parameters[["stability"]])]
+  bestK = K[sort(order(object@parameters[["stability"]], decreasing = TRUE)[1:3])[2]]
   object@parameters[["K"]] = bestK
   if(length(K)>1){
     message(paste("Best K is selected as K =", bestK))
